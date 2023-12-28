@@ -10,7 +10,7 @@ import pageobjects.homePage;
 import utilities.LoggerLoad;
 import utilities.configReader;
 
-public class homePageSD {
+public class homePageSD { 
 
 	homePage home= new homePage();
 	String registerurl=configReader.getregisterUrl();
